@@ -11,7 +11,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <BearCounter/>
+      <BearCounter />
       <Controls />
     </View>
   );
